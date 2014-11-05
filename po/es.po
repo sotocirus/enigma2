@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-21 19:08+0200\n"
 "PO-Revision-Date: 2011-04-12 22:26+0200\n"
-"Last-Translator: Jose Juan <jzapater@gmail.com>\n"
+"Last-Translator: Polanko y Cia <cirus@polankoycia.com>\n"
 "Language-Team: none\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -1304,10 +1304,10 @@ msgid "Check"
 msgstr "Checkear"
 
 msgid "Check the internet connection"
-msgstr ""
+msgstr "Comprobando si hay acceso a internet"
 
 msgid "Check the internet connection again"
-msgstr ""
+msgstr "Comprobando si hay acceso a internet"
 
 #
 #, fuzzy
@@ -1315,7 +1315,7 @@ msgid "Checking filesystem..."
 msgstr "Chequear sistema de archivos..."
 
 msgid "Checking the internet connection"
-msgstr ""
+msgstr "Comprobando si hay conexión a Internet"
 
 #, python-format
 msgid ""
@@ -2345,7 +2345,7 @@ msgstr "¿Quiere descargar la imagen a %s?"
 #
 #, fuzzy
 msgid "Do you want to install a channel list?"
-msgstr "Quiere instalar el paquete:\n"
+msgstr "¿Quiere instalar una lista de canales?"
 
 #
 msgid "Do you want to install the package:\n"
@@ -4684,7 +4684,7 @@ msgstr ""
 "Cuando esté preparado pulse OK para continuar."
 
 msgid "Please connect your receiver to the internet"
-msgstr ""
+msgstr "Por favor, conecte el receptor a internet"
 
 #
 msgid "Please do not change any values unless you know what you are doing!"
@@ -4799,11 +4799,11 @@ msgstr ""
 #
 #, fuzzy
 msgid "Please set up tuner A"
-msgstr "Por favor, configure sintonizador B"
+msgstr "Por favor, configure el sintonizador A"
 
 #
 msgid "Please set up tuner B"
-msgstr "Por favor, configure sintonizador B"
+msgstr "Por favor, configure el sintonizador B"
 
 #
 msgid "Please set up tuner C"
@@ -4843,7 +4843,7 @@ msgstr "Espere... Cargando lista..."
 #
 #, fuzzy
 msgid "Please wait (updating packages)"
-msgstr "por favor espere, cargando foto..."
+msgstr "por favor espere, cargando..."
 
 #
 msgid "Please wait for activation of your network configuration..."
@@ -6316,7 +6316,7 @@ msgid "Skip empty services"
 msgstr "Proteger canales"
 
 msgid "Skip internet connection check (disables automatic package installation)"
-msgstr ""
+msgstr "No deseo comprobar la conexión a Internet (desactiva la instalación automática del paquete)"
 
 #
 #, fuzzy
@@ -6815,7 +6815,7 @@ msgid "Symbol rate:"
 msgstr ""
 
 msgid "Sync failure moving back to origin !"
-msgstr ""
+msgstr "" 
 
 #
 msgid "System"
@@ -6825,12 +6825,12 @@ msgstr "Sistema"
 #. TRANSLATORS: Add here whatever should be shown in the "translator" about screen, up to 6 lines (use \n for newline)
 msgid "TRANSLATOR_INFO"
 msgstr ""
-"josej@zapater.fdns.net\n"
-"Traductor de enigma2 al español.\n"
-"ESPACIO PARA SU PUBLICIDAD.\n"
-"ESPACIO PARA SU PUBLICIDAD.\n"
-"Si tiene un proyecto de traducción técnico del inglés\n"
-"al español no dude en ponerse en contacto conmigo."
+"cirus@polankoycia.com\n"
+"Foro de Enigma2 en español.\n"
+"****** POLANKO y CIA ******.\n"
+"[ PYC ] E2 TEAM.\n"
+"Enigma2 Libre \n"
+"www.polankoycia.com"
 
 #
 msgid "TS file is too large for ISO9660 level 1!"
@@ -6908,7 +6908,7 @@ msgid ""
 "Thank you for using the wizard. Your receiver is now ready for use.\n"
 "Press OK to start using your receiver."
 msgstr ""
-"Gracias por usar el asistente.\n"
+"Gracias por usar el asistente PYC.\n"
 "Pulse OK para continuar."
 
 msgid "The DVD standard doesn't support H.264 (HDTV) video streams. Do you want to create a special format data DVD (which will not play in stand-alone DVD players) instead?"
@@ -7541,7 +7541,7 @@ msgid "Update completed. Do you want to reboot your receiver?"
 msgstr ""
 
 msgid "Update failed. Your receiver does not have a working internet connection."
-msgstr ""
+msgstr "Actualizacion Fallida. No a sido posible la conexión con internet"
 
 msgid "Update has completed."
 msgstr ""
@@ -7641,7 +7641,7 @@ msgstr "Use las teclas arriba/abajo de su mando para seleccionar una opción. De
 #
 #, fuzzy
 msgid "Use the wizard to set up basic features"
-msgstr "Use el asistente para configuración básica"
+msgstr "Use el asistente para la configuración básica"
 
 #, fuzzy
 msgid "Use these input device settings?"
@@ -7732,7 +7732,7 @@ msgstr "Configuración de mejora de video"
 msgid "Video fine tuning"
 msgstr "Ajuste de video fino"
 
-#
+
 #, fuzzy
 msgid ""
 "Video input selection\n"
@@ -7741,9 +7741,9 @@ msgid ""
 "\n"
 "The next input port will be automatically probed in 20 seconds."
 msgstr ""
-"Selección entrada de vídeo\n"
+"Seleccione la entrada de vídeo\n"
 "\n"
-"Por favor, pulse OK si quiere ver esta página en su TV (o selecciones un puerto de entrada diferente).\n"
+"Por favor, seleccione la entrada de video deseada (o selecciones un puerto de entrada diferente).\n"
 "\n"
 "El puerto de entrada siguiente será automáticamente probado durante 10 segundos."
 
@@ -7984,6 +7984,10 @@ msgid ""
 "This start wizard will guide you through the basic setup of your receiver.\n"
 "Press the OK button on your remote control to move to the next step."
 msgstr ""
+"Bienvenido al PYC Wizard.\n"
+"\n"
+"Use este asistente para Configurar su dispositivo.\n"
+"Cuando este listo pulse el boton OK de su mando para ir al siguiente paso."
 
 #
 msgid "Welcome..."
@@ -8228,7 +8232,7 @@ msgid "Without popup"
 msgstr ""
 
 msgid "Would you like to install a softcam?"
-msgstr ""
+msgstr "¿Quiere instalar softcam?"
 
 #
 msgid "Write error while recording. Disk full?\n"
@@ -8400,14 +8404,14 @@ msgstr ""
 
 #, python-format
 msgid "Your internet connection is working (ip: %s)"
-msgstr ""
+msgstr "Su conexión a Internet está ahora funcionando con (ip: %s)"
 
 #
 msgid "Your network configuration has been activated."
 msgstr "Su configuración de red ha sido activada."
 
 msgid "Your receiver does not have an internet connection"
-msgstr ""
+msgstr "Su Receptor no tiene conexión a internet"
 
 #
 #, fuzzy
@@ -8417,9 +8421,9 @@ msgid ""
 "Your internet connection is working.\n"
 "\n"
 msgstr ""
-"Su Dreambox está ahora preparado para usarse.\n"
+"Su Maquina está ahora preparada para usarse.\n"
 "\n"
-"Si conexión a internet está funcionando ahora.\n"
+"Su conexión a internet está funcionando ahora.\n"
 "\n"
 
 msgid ""
@@ -8431,7 +8435,7 @@ msgid ""
 msgstr ""
 
 msgid "Your receiver is rebooting"
-msgstr ""
+msgstr "Su Receptor se esta reiniciando"
 
 msgid "Your receiver is shutting down"
 msgstr ""

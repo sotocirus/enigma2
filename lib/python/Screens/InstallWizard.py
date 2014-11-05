@@ -51,8 +51,8 @@ class InstallWizard(Screen, ConfigListScreen):
 			self.createMenu()
 		elif self.index == self.STATE_CHOISE_SOFTCAM:
 			self.enabled = ConfigYesNo(default = True)
-			modes = {"cccam230": "CCcam 2.3.0", "scam": "scam"}
-			self.softcam_type = ConfigSelection(choices = modes, default = "cccam230")
+			modes = {"CCcam 2.3.0": "cccam_2.3.0-r0", "scam": "scam"}
+			self.softcam_type = ConfigSelection(choices = modes, default = "cccam_2.3.0-r0")
 			self.createMenu()
 
 	def checkNetworkCB(self, data):
